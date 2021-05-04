@@ -1,0 +1,35 @@
+body
+    {
+    background-color: #CBCBCB;
+    }
+    .wrapper
+    {
+        width: 940px;
+        margin: 20px auto 20px auto;
+        border: 2px solid #000000;
+        background-color: #ffffff;
+    }
+    h1
+    {
+        text-align: center;
+    }
+    .center
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 181px;
+        height: 338px;
+    }
+    nav ul
+    {
+        margin: 30;
+        padding: 0;
+        display: flex;
+        justify-content: space-around;
+        list-style-type: none;
+    }
+    nav li{
+        display: inline;
+        margine-right: 40px;
+    }
